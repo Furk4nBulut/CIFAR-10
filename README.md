@@ -114,4 +114,4 @@ Please ensure your code follows PEP 8 style guidelines and includes relevant doc
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Built with ❤️ by Your Name
+Built with ❤️ by Furkan Bulut
